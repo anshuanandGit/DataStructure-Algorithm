@@ -1,0 +1,11 @@
+C:\Users\Anshu Anand\source\repos\Amzn_OA\BSTProblem\bin\Debug\netcoreapp2.2\BSTProblem.deps.json
+C:\Users\Anshu Anand\source\repos\Amzn_OA\BSTProblem\bin\Debug\netcoreapp2.2\BSTProblem.runtimeconfig.json
+C:\Users\Anshu Anand\source\repos\Amzn_OA\BSTProblem\bin\Debug\netcoreapp2.2\BSTProblem.runtimeconfig.dev.json
+C:\Users\Anshu Anand\source\repos\Amzn_OA\BSTProblem\bin\Debug\netcoreapp2.2\BSTProblem.dll
+C:\Users\Anshu Anand\source\repos\Amzn_OA\BSTProblem\bin\Debug\netcoreapp2.2\BSTProblem.pdb
+C:\Users\Anshu Anand\source\repos\Amzn_OA\BSTProblem\obj\Debug\netcoreapp2.2\BSTProblem.csprojAssemblyReference.cache
+C:\Users\Anshu Anand\source\repos\Amzn_OA\BSTProblem\obj\Debug\netcoreapp2.2\BSTProblem.csproj.CoreCompileInputs.cache
+C:\Users\Anshu Anand\source\repos\Amzn_OA\BSTProblem\obj\Debug\netcoreapp2.2\BSTProblem.AssemblyInfoInputs.cache
+C:\Users\Anshu Anand\source\repos\Amzn_OA\BSTProblem\obj\Debug\netcoreapp2.2\BSTProblem.AssemblyInfo.cs
+C:\Users\Anshu Anand\source\repos\Amzn_OA\BSTProblem\obj\Debug\netcoreapp2.2\BSTProblem.dll
+C:\Users\Anshu Anand\source\repos\Amzn_OA\BSTProblem\obj\Debug\netcoreapp2.2\BSTProblem.pdb

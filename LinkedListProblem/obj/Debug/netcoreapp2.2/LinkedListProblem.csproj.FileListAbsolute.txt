@@ -1,0 +1,11 @@
+C:\Users\Anshu Anand\source\repos\Amzn_OA\LinkedListProblem\bin\Debug\netcoreapp2.2\LinkedListProblem.deps.json
+C:\Users\Anshu Anand\source\repos\Amzn_OA\LinkedListProblem\bin\Debug\netcoreapp2.2\LinkedListProblem.runtimeconfig.json
+C:\Users\Anshu Anand\source\repos\Amzn_OA\LinkedListProblem\bin\Debug\netcoreapp2.2\LinkedListProblem.runtimeconfig.dev.json
+C:\Users\Anshu Anand\source\repos\Amzn_OA\LinkedListProblem\bin\Debug\netcoreapp2.2\LinkedListProblem.dll
+C:\Users\Anshu Anand\source\repos\Amzn_OA\LinkedListProblem\bin\Debug\netcoreapp2.2\LinkedListProblem.pdb
+C:\Users\Anshu Anand\source\repos\Amzn_OA\LinkedListProblem\obj\Debug\netcoreapp2.2\LinkedListProblem.csprojAssemblyReference.cache
+C:\Users\Anshu Anand\source\repos\Amzn_OA\LinkedListProblem\obj\Debug\netcoreapp2.2\LinkedListProblem.csproj.CoreCompileInputs.cache
+C:\Users\Anshu Anand\source\repos\Amzn_OA\LinkedListProblem\obj\Debug\netcoreapp2.2\LinkedListProblem.AssemblyInfoInputs.cache
+C:\Users\Anshu Anand\source\repos\Amzn_OA\LinkedListProblem\obj\Debug\netcoreapp2.2\LinkedListProblem.AssemblyInfo.cs
+C:\Users\Anshu Anand\source\repos\Amzn_OA\LinkedListProblem\obj\Debug\netcoreapp2.2\LinkedListProblem.dll
+C:\Users\Anshu Anand\source\repos\Amzn_OA\LinkedListProblem\obj\Debug\netcoreapp2.2\LinkedListProblem.pdb

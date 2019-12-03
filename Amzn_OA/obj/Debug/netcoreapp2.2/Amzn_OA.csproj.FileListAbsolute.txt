@@ -1,0 +1,11 @@
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Amzn_OA\bin\Debug\netcoreapp2.2\Amzn_OA.deps.json
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Amzn_OA\bin\Debug\netcoreapp2.2\Amzn_OA.runtimeconfig.json
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Amzn_OA\bin\Debug\netcoreapp2.2\Amzn_OA.runtimeconfig.dev.json
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Amzn_OA\bin\Debug\netcoreapp2.2\Amzn_OA.dll
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Amzn_OA\bin\Debug\netcoreapp2.2\Amzn_OA.pdb
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Amzn_OA\obj\Debug\netcoreapp2.2\Amzn_OA.csprojAssemblyReference.cache
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Amzn_OA\obj\Debug\netcoreapp2.2\Amzn_OA.csproj.CoreCompileInputs.cache
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Amzn_OA\obj\Debug\netcoreapp2.2\Amzn_OA.AssemblyInfoInputs.cache
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Amzn_OA\obj\Debug\netcoreapp2.2\Amzn_OA.AssemblyInfo.cs
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Amzn_OA\obj\Debug\netcoreapp2.2\Amzn_OA.dll
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Amzn_OA\obj\Debug\netcoreapp2.2\Amzn_OA.pdb

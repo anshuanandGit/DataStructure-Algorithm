@@ -1,0 +1,11 @@
+C:\Users\Anshu Anand\source\repos\Amzn_OA\StackProblem\obj\Debug\netcoreapp2.2\StackProblem.csproj.CoreCompileInputs.cache
+C:\Users\Anshu Anand\source\repos\Amzn_OA\StackProblem\obj\Debug\netcoreapp2.2\StackProblem.AssemblyInfoInputs.cache
+C:\Users\Anshu Anand\source\repos\Amzn_OA\StackProblem\obj\Debug\netcoreapp2.2\StackProblem.AssemblyInfo.cs
+C:\Users\Anshu Anand\source\repos\Amzn_OA\StackProblem\bin\Debug\netcoreapp2.2\StackProblem.deps.json
+C:\Users\Anshu Anand\source\repos\Amzn_OA\StackProblem\bin\Debug\netcoreapp2.2\StackProblem.runtimeconfig.json
+C:\Users\Anshu Anand\source\repos\Amzn_OA\StackProblem\bin\Debug\netcoreapp2.2\StackProblem.runtimeconfig.dev.json
+C:\Users\Anshu Anand\source\repos\Amzn_OA\StackProblem\bin\Debug\netcoreapp2.2\StackProblem.dll
+C:\Users\Anshu Anand\source\repos\Amzn_OA\StackProblem\bin\Debug\netcoreapp2.2\StackProblem.pdb
+C:\Users\Anshu Anand\source\repos\Amzn_OA\StackProblem\obj\Debug\netcoreapp2.2\StackProblem.dll
+C:\Users\Anshu Anand\source\repos\Amzn_OA\StackProblem\obj\Debug\netcoreapp2.2\StackProblem.pdb
+C:\Users\Anshu Anand\source\repos\Amzn_OA\StackProblem\obj\Debug\netcoreapp2.2\StackProblem.csprojAssemblyReference.cache

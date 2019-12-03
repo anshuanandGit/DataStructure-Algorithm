@@ -1,0 +1,11 @@
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Array_Imp\bin\Debug\netcoreapp2.2\Array_Imp.deps.json
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Array_Imp\bin\Debug\netcoreapp2.2\Array_Imp.runtimeconfig.json
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Array_Imp\bin\Debug\netcoreapp2.2\Array_Imp.runtimeconfig.dev.json
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Array_Imp\bin\Debug\netcoreapp2.2\Array_Imp.dll
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Array_Imp\bin\Debug\netcoreapp2.2\Array_Imp.pdb
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Array_Imp\obj\Debug\netcoreapp2.2\Array_Imp.csprojAssemblyReference.cache
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Array_Imp\obj\Debug\netcoreapp2.2\Array_Imp.csproj.CoreCompileInputs.cache
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Array_Imp\obj\Debug\netcoreapp2.2\Array_Imp.AssemblyInfoInputs.cache
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Array_Imp\obj\Debug\netcoreapp2.2\Array_Imp.AssemblyInfo.cs
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Array_Imp\obj\Debug\netcoreapp2.2\Array_Imp.dll
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Array_Imp\obj\Debug\netcoreapp2.2\Array_Imp.pdb

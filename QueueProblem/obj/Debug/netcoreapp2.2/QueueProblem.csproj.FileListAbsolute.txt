@@ -1,0 +1,11 @@
+C:\Users\Anshu Anand\source\repos\Amzn_OA\QueueProblem\bin\Debug\netcoreapp2.2\QueueProblem.deps.json
+C:\Users\Anshu Anand\source\repos\Amzn_OA\QueueProblem\bin\Debug\netcoreapp2.2\QueueProblem.runtimeconfig.json
+C:\Users\Anshu Anand\source\repos\Amzn_OA\QueueProblem\bin\Debug\netcoreapp2.2\QueueProblem.runtimeconfig.dev.json
+C:\Users\Anshu Anand\source\repos\Amzn_OA\QueueProblem\bin\Debug\netcoreapp2.2\QueueProblem.dll
+C:\Users\Anshu Anand\source\repos\Amzn_OA\QueueProblem\bin\Debug\netcoreapp2.2\QueueProblem.pdb
+C:\Users\Anshu Anand\source\repos\Amzn_OA\QueueProblem\obj\Debug\netcoreapp2.2\QueueProblem.csproj.CoreCompileInputs.cache
+C:\Users\Anshu Anand\source\repos\Amzn_OA\QueueProblem\obj\Debug\netcoreapp2.2\QueueProblem.AssemblyInfoInputs.cache
+C:\Users\Anshu Anand\source\repos\Amzn_OA\QueueProblem\obj\Debug\netcoreapp2.2\QueueProblem.AssemblyInfo.cs
+C:\Users\Anshu Anand\source\repos\Amzn_OA\QueueProblem\obj\Debug\netcoreapp2.2\QueueProblem.dll
+C:\Users\Anshu Anand\source\repos\Amzn_OA\QueueProblem\obj\Debug\netcoreapp2.2\QueueProblem.pdb
+C:\Users\Anshu Anand\source\repos\Amzn_OA\QueueProblem\obj\Debug\netcoreapp2.2\QueueProblem.csprojAssemblyReference.cache

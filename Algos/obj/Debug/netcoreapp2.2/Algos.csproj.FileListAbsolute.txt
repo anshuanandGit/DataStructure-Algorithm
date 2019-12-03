@@ -1,0 +1,11 @@
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Algos\bin\Debug\netcoreapp2.2\Algos.deps.json
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Algos\bin\Debug\netcoreapp2.2\Algos.runtimeconfig.json
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Algos\bin\Debug\netcoreapp2.2\Algos.runtimeconfig.dev.json
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Algos\bin\Debug\netcoreapp2.2\Algos.dll
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Algos\bin\Debug\netcoreapp2.2\Algos.pdb
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Algos\obj\Debug\netcoreapp2.2\Algos.csproj.CoreCompileInputs.cache
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Algos\obj\Debug\netcoreapp2.2\Algos.AssemblyInfoInputs.cache
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Algos\obj\Debug\netcoreapp2.2\Algos.AssemblyInfo.cs
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Algos\obj\Debug\netcoreapp2.2\Algos.dll
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Algos\obj\Debug\netcoreapp2.2\Algos.pdb
+C:\Users\Anshu Anand\source\repos\Amzn_OA\Algos\obj\Debug\netcoreapp2.2\Algos.csprojAssemblyReference.cache
