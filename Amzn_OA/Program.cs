@@ -51,7 +51,9 @@ namespace Amzn_OA
            // CriticalRouter.Start();
             //CriticalRouter_New.Start();
             //CriticalConnection.Start();
-            KLengthSubstringInString.Start();
+           // KLengthSubstringInString.Start();
+            SubArrayWith_K_different_Integers.Start();
+            SubstringWith_K_Distinct_char.Start();
             Console.ReadKey();
 
 

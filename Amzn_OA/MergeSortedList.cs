@@ -6,6 +6,8 @@ namespace Amzn_OA
 {
     class MergeSortedList
     {
+        //Time - Linear O(nLogn)
+        //Space - O(n)
         public ListNode MergeTwoLists(ListNode l1, ListNode l2)
         {
 
@@ -15,7 +17,6 @@ namespace Amzn_OA
             List<int> lis = new List<int>();
             while (temp1 != null || temp2 != null)
             {
-
                 if (temp1 != null && temp2 != null)
                 {
                     lis.Add(temp1.val);
@@ -50,6 +51,60 @@ namespace Amzn_OA
                 temp3 = temp3.next;
             }
             return op;
+        }
+
+        //Time - Linear O(n)
+        //Space - Constant
+        public static ListNode MergeTwoList_2(ListNode l1, ListNode l2)
+        {
+            ListNode temp1 = l1;
+            ListNode temp2 = l2;
+
+            ListNode op = new ListNode(-1);
+            ListNode temp3 = op;
+
+
+            while (temp1 != null || temp2 != null)
+            {
+                if (temp1 != null && temp2 != null)
+                {
+                    if (temp1.val < temp2.val)
+                    {
+                        op.next = new ListNode(temp1.val);
+                        op = op.next;
+                        temp1 = temp1.next;
+                    }
+                    else if (temp1.val > temp2.val)
+                    {
+                        op.next = new ListNode(temp2.val);
+                        op = op.next;
+                        temp2 = temp2.next;
+                    }
+                    else if (temp1.val == temp2.val)
+                    {
+                        op.next = new ListNode(temp1.val);
+                        op.next.next = new ListNode(temp2.val);
+                        op = op.next.next;
+                        temp1 = temp1.next;
+                        temp2 = temp2.next;
+                    }
+                }
+                else if (temp1 != null && temp2 == null)
+                {
+                    op.next = new ListNode(temp1.val);
+                    op = op.next;
+                    temp1 = temp1.next;
+                }
+                else if (temp1 == null && temp2 != null)
+                {
+                    op.next = new ListNode(temp2.val);
+                    op = op.next;
+                    temp2 = temp2.next;
+                }
+            }
+
+
+            return temp3.next;
         }
     }
 
